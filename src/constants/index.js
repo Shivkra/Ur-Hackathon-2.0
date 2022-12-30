@@ -157,11 +157,11 @@ export const clients3 = [
     logo: lumos,
     link: "https://www.lumoslabs.co/",
   },
-  // {
-  //   id: "client-4",
-  //   logo: threeway,
-  //   link: "https://threeway.studio/",
-  // },
+  {
+    id: "client-4",
+    logo: threeway,
+    link: "https://threeway.studio/",
+  },
 ];
 
 export const clients4 = [
